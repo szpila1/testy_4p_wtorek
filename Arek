@@ -1,1 +1,95 @@
+1. Która właściwość klasy w Pythonie pozwala ukryć zmienną przed dostępem z zewnątrz?
+A) public
+B) protected
+C) private (przez __nazwa)
+D) static
 
+C
+
+2. Który z poniższych operatorów w Pythonie służy do modyfikacji listy przez dodanie elementu na końcu?
+A) add()
+B) insert()
+C) append()
+D) push()
+
+C
+
+3. W SQL, który operator służy do łączenia warunków?
+A) &
+B) AND
+C) +
+D) JOIN
+
+B
+
+4. W Python, co zwróci 'abc'.upper()?
+A) abc
+B) ABC
+C) Abc
+D) aBC
+
+B
+
+5. W SQL, który klauzula grupuje dane według kolumny?
+A) ORDER BY
+B) GROUP BY
+C) SELECT
+D) HAVING
+
+B
+
+6. W Java, typ dla liczby 3.14:
+A) int
+B) float
+C) double
+D) long
+
+C
+
+7. W SQL, operator łączenia tabel bez powtórzeń = ?
+A) JOIN
+B) UNION
+C) INNER JOIN
+D) SELECT
+
+B
+
+8. W SQL, czym jest klucz obcy (foreign key)?
+A) Kolumna z unikalnymi wartościami
+B) Kolumna wskazująca na klucz główny innej tabeli
+C) Indeks
+D) Wiersz w tabeli
+
+B
+
+9. W Python, czym jest __init__?
+A) Funkcja globalna
+B) Konstruktor klasy
+C) Dekorator
+D) Typ danych
+
+B
+
+10. W Java, co oznacza static przy metodzie?
+A) Metoda instancji
+B) Metoda należąca do klasy, nie obiektu
+C) Metoda abstrakcyjna
+D) Stała
+
+B
+
+11. W SQL, czym jest klucz główny (PRIMARY KEY)?
+A) Kolumna z duplikatami
+B) Unikalny identyfikator wiersza w tabeli
+C) Zmienna
+D) Funkcja
+
+B
+
+12. W C++, czym jest dziedziczenie wielokrotne?
+A) Klasa dziedziczy po jednej klasie
+B) Klasa dziedziczy po więcej niż jednej klasie bazowej
+C) Nie ma w C++
+D) Klasa statyczna
+
+B
